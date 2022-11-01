@@ -1,0 +1,31 @@
+ .table{
+        text-align: center;
+        width: 75%;
+        border-collapse:collapse;
+        border-spacing:0;
+        height: auto;
+        color: #0A3807
+
+    }
+    .table, .table td, .table th {
+	border: 2px solid black;
+
+    }
+    .table td, .table th {
+	padding: 3px;
+	width: 150px;
+	height: 35px;
+
+    }
+.first{
+        background-color: #088f8f;
+    }
+.first:hover{
+        background-color:  #f5f508;
+    }
+.second{
+        background-color:  #f5f508;
+    }
+.second:hover{
+        background-color:#088f8f;
+    }
